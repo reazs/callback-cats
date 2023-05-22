@@ -20,6 +20,38 @@ First, you need to install the flask dependencies and react node_module to run t
 - Now, open another terminal. Then, you need the install react node_modules through below command:
   * npm install
  
+3. Open your browser and visit `http://localhost:3000` to access the application.
+
+4. Explore the website to view available cats for adoption and learn more about each cat.
+
+5. If you would like to donate a cat, please contact our team through the provided contact information on the website.
+
+## Technologies Used
+
+- Frontend:
+- TypeScript: A statically-typed programming language that enhances the development experience.
+- React with Vite: A modern, fast, and lightweight tooling setup for building React applications.
+- Tailwind CSS: A utility-first CSS framework that provides a wide range of pre-built components and styles.
+
+- Backend:
+- Flask: A lightweight web framework for building RESTful APIs in Python.
+- Flask SQLAlchemy: An ORM (Object-Relational Mapping) library that simplifies database operations in Flask applications.
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to CallbackCats, please follow the steps below:
+
+1. Fork the repository.
+
+2. Create a new branch:
+
+3. Make your desired changes and commit them:
+
+4. Push your changes to your forked repository:
+
+4. Push your changes to your forked repository:
+
+ 
  ### Now, you need to do is type below commands to start the website:
    * First, go to server folder and type 'python main.py'
    * Then, open another terminal and type 'npm start'
